@@ -1,0 +1,37 @@
+*------------------------------------------------------------*
+User:                chinh
+Date:                April 14, 2022
+Time:                18:35:39 o'clock
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+         Measurement    Frequency
+Role        Level         Count
+ 
+INPUT     INTERVAL           4
+INPUT     NOMINAL           12
+ 
+ 
+ 
+Saved Data Properties
+ 
+ Data                                                                                    Total           Saved        Number of
+Library                                Output Location                                Observations    Observations    Variables
+ 
+CREDIT     C:\Users\chinh\Documents\seneca\ban210\final proj\credit_TRAIN.sas7bdat        690             MAX            16
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
