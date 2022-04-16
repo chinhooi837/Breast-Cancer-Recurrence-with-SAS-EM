@@ -1,0 +1,20 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Variable Summary
+
+         Measurement    Frequency
+Role        Level         Count
+
+INPUT     INTERVAL          8    
+INPUT     NOMINAL           6    
+ 
+                                                                                                                                                                                                                                                                
+ 
+Saved Data Properties
+
+  Data                                                                                           Total           Saved        Number of
+Library                                    Output Location                                    Observations    Observations    Variables
+
+BREASTCA    C:\Users\chinh\Documents\seneca\ban210\final proj\breast_cancer_TRAIN.sas7bdat        286             MAX            14    

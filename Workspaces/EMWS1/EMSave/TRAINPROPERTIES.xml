@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  Location="CATALOG" Catalog="Sashelp.Emutil.Savext.Source" Type="SAS7BDAT" Replace="Y"
+ AllObs="Y" OutObs="1000" AllRoles="Y" Train="Y" Validate="Y" Test="Y" Score="Y" Transaction="Y"
+ ForceRun="N" RunAction="Train" Component="EMSave" Lib="BREASTCA" DirectorySelector=""
+ Name="breast_cancer" RawCreateTime="1965521092.8" CreateTime="14APR2022:02:04:53"
+ RunId="31749c50-1b92-42bf-bc3e-7a6e93836ede" RawLastTimeRun="1965595235.8" RawRunTime="3.1529998779"
+ LastTimeRun="14APR2022:22:40:36" RunTime="0 Hr. 0 Min. 3.15 Sec.">
+<VARIABLEPROPERTIES/>
+<FILEPROPERTIES ><![CDATA[
+USERTRAINCODE
+USERSCORECODE
+USERREPORTCODE
+]]>
+</FILEPROPERTIES></_ROOT_>
