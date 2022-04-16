@@ -1,0 +1,62 @@
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+Variable Summary
+
+         Measurement    Frequency
+Role        Level         Count
+
+INPUT     INTERVAL          8    
+INPUT     NOMINAL           6    
+ 
+                                                                                                                                                                                                                                                                
+ 
+ 
+
+The CONTENTS Procedure
+
+Data Set Name        EMWS1.FIMPORT_DATA            Observations          286
+Member Type          DATA                          Variables             14 
+Engine               V9                            Indexes               0  
+Created              2022-04-14 22:40:34           Observation Length    112
+Last Modified        2022-04-14 22:40:34           Deleted Observations  0  
+Protection                                         Compressed            NO 
+Data Set Type                                      Sorted                NO 
+Label                                                                       
+Data Representation  WINDOWS_64                                             
+Encoding             wlatin1  Western (Windows)                             
+
+
+                                                Engine/Host Dependent Information
+
+Data Set Page Size          65536                                                                                                 
+Number of Data Set Pages    1                                                                                                     
+First Data Page             1                                                                                                     
+Max Obs per Page            584                                                                                                   
+Obs in First Data Page      286                                                                                                   
+Number of Data Set Repairs  0                                                                                                     
+ExtendObsCounter            YES                                                                                                   
+Filename                    C:\Users\chinh\Documents\seneca\ban210\final proj\Final Project\Workspaces\EMWS1\fimport_data.sas7bdat
+Release Created             9.0401M3                                                                                              
+Host Created                X64_8HOME                                                                                             
+
+
+                 Alphabetic List of Variables and Attributes
+ 
+ #    Variable          Type    Len    Format     Informat    Label
+
+ 1    Class             Char     20    $20.       $20.                      
+ 7    _                 Num       8                           ,             
+ 6    age_max           Num       8    BEST12.    BEST32.                   
+ 5    age_min           Num       8    BEST12.    BEST32.                   
+ 3    breast            Char      5    $5.        $5.                       
+10    breast_quad       Char      9                           breast-quad   
+ 9    deg_malig         Num       8                           deg-malig     
+14    inv_nodes_max     Num       8                           inv-nodes_max 
+13    inv_nodes_min     Num       8                           inv-nodes_min 
+ 4    irradiat          Char      3    $3.        $3.                       
+ 2    menopause         Char      7    $7.        $7.                       
+ 8    node_caps         Char      3                           node-caps     
+12    tumor_size_max    Num       8                           tumor-size_max
+11    tumor_size_min    Num       8                           tumor-size_min
