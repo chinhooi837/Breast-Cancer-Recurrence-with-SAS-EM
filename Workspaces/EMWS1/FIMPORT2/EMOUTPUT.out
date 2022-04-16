@@ -1,0 +1,92 @@
+*------------------------------------------------------------*
+User:                chinh
+Date:                April 14, 2022
+Time:                18:05:17 o'clock
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+         Measurement    Frequency
+Role        Level         Count
+ 
+INPUT     INTERVAL           4
+INPUT     NOMINAL           12
+ 
+ 
+ 
+ 
+ 
+The CONTENTS Procedure
+ 
+Data Set Name        EMWS1.FIMPORT2_DATA           Observations          690
+Member Type          DATA                          Variables             16
+Engine               V9                            Indexes               0
+Created              2022-04-14 18:05:16           Observation Length    56
+Last Modified        2022-04-14 18:05:16           Deleted Observations  0
+Protection                                         Compressed            NO
+Data Set Type                                      Sorted                NO
+Label
+Data Representation  WINDOWS_64
+Encoding             wlatin1  Western (Windows)
+ 
+ 
+                                                 Engine/Host Dependent Information
+ 
+Data Set Page Size          65536
+Number of Data Set Pages    1
+First Data Page             1
+Max Obs per Page            1167
+Obs in First Data Page      690
+Number of Data Set Repairs  0
+ExtendObsCounter            YES
+Filename                    C:\Users\chinh\Documents\seneca\ban210\final proj\Final Project\Workspaces\EMWS1\fimport2_data.sas7bdat
+Release Created             9.0401M3
+Host Created                X64_8HOME
+ 
+ 
+     Alphabetic List of Variables and Attributes
+ 
+ #    Variable    Type    Len    Format     Informat
+ 
+ 1    A1          Char      1    $1.        $1.
+ 2    A2          Char      5    $5.        $5.
+ 3    A3          Num       8    BEST12.    BEST32.
+ 4    A4          Char      1    $1.        $1.
+ 5    A5          Char      2    $2.        $2.
+ 6    A6          Char      2    $2.        $2.
+ 7    A7          Char      2    $2.        $2.
+ 8    A8          Num       8    BEST12.    BEST32.
+ 9    A9          Char      1    $1.        $1.
+10    A10         Char      1    $1.        $1.
+11    A11         Num       8    BEST12.    BEST32.
+12    A12         Char      1    $1.        $1.
+13    A13         Char      1    $1.        $1.
+14    A14         Char      5    $5.        $5.
+15    A15         Num       8    BEST12.    BEST32.
+16    A16         Char      1    $1.        $1.
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Exported Attributes for TRAIN Port
+ 
+         Measurement    Frequency
+Role        Level         Count
+ 
+INPUT     INTERVAL           4
+INPUT     NOMINAL           12
